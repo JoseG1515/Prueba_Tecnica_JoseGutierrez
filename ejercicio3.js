@@ -3,7 +3,7 @@ let textos= 'aaabbbcccd'
 
 function ComprimirTexto(textos){
     let palabra = textos.toLowerCase()
-    console.log(palabra)
+   // console.log(palabra)
     let resultado = ''
     let cont= 1
 if (palabra.length==0){
